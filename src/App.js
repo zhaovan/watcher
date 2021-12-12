@@ -184,7 +184,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Bret Victor's Memex
+              Vannevar Bush's Memex
             </a>
             . Want to chat more?{" "}
             <a
