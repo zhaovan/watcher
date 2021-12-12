@@ -7,7 +7,8 @@
     #f6c886,
     #eaf5d2
   );
-  min-height: 100vh;
+  min-height: 98vh;
+  padding-bottom: 2vh;
 }
 
 .App {

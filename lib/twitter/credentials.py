@@ -1,4 +1,4 @@
-api_key = "PHYVNsTTW5ulfPhQPyDADlkc3"
-api_key_secret = "tV7UhSLX1F4UZHgif6GjfN643JtTw3b5vltRdzCuyMO6lMXsWm"
-access_token = "748303207-1YhxC6qLiqWrUFYtcxl0PbnZV6wAjKB9zT6ZLUgA"
-access_token_secret = "C5c0nYhfTGdcvyDApXOAVPGiPmdndZFJaegNgenYzwfzl"
+api_key = "89RKgeLkDtvUIt0VM18d9R4ED"
+api_key_secret = "oWvbb7yrd5MMisXOQtCrN4LvxVnwMyPL3iUsEPUAxzZkJqI2U7"
+access_token = "748303207-CDyuDncVdlbNZqziSY1NowKCuWjmj57lCpL3XcRa"
+access_token_secret = "s52Oa3LWwhg1PYSQSNSIkxuTshwwYsPDCUC9ccLZNLa5e"
