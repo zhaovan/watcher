@@ -1,0 +1,4 @@
+api_key = "PHYVNsTTW5ulfPhQPyDADlkc3"
+api_key_secret = "tV7UhSLX1F4UZHgif6GjfN643JtTw3b5vltRdzCuyMO6lMXsWm"
+access_token = "748303207-1YhxC6qLiqWrUFYtcxl0PbnZV6wAjKB9zT6ZLUgA"
+access_token_secret = "C5c0nYhfTGdcvyDApXOAVPGiPmdndZFJaegNgenYzwfzl"

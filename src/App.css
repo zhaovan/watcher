@@ -1,17 +1,27 @@
+.container {
+  background-image: linear-gradient(
+    to right top,
+    #8c46ff,
+    #ff36a7,
+    #ff8772,
+    #f6c886,
+    #eaf5d2
+  );
+  min-height: 100vh;
+}
+
 .App {
   text-align: center;
+  margin: 0% 2%;
+  padding-top: 2vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
+/* 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +45,90 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.result {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 0.05rem 2rem;
+  font-size: 16px;
+}
+
+.result:hover {
+  opacity: 0.8;
+  background-color: white;
+  cursor: pointer;
+}
+.result-tag {
+  width: 100px;
+  text-align: left;
+}
+
+.timer {
+  color: black;
+  opacity: 0.6;
+  text-align: left;
+}
+
+.content {
+  white-space: nowrap;
+  overflow: hidden;
+  color: black;
+  opacity: 0.6;
+  text-overflow: ellipsis;
+}
+
+.selected-doc {
+  position: absolute;
+  top: 5%;
+  left: 40vw;
+  background-color: white;
+  border: 1px solid black;
+  width: 58vw;
+  height: 90vh;
+  overflow: scroll;
+  border-radius: 15px;
+  overflow-x: hidden;
+}
+
+.selected-doc-header {
+  text-align: right;
+  padding-right: 2vw;
+  padding-top: 2vh;
+}
+
+.header-item {
+  margin: 2%;
+  text-decoration: none;
+}
+
+.selected-doc-content {
+  text-align: left;
+  margin-left: 2vw;
+}
+
+.doc-content {
+  line-height: 32px;
+  white-space: pre-wrap;
+}
+
+.welcome-container {
+  text-align: left;
+  width: 40vw;
+}
+
+.tags {
+  width: 80px;
+  padding: 4px;
+  border-radius: 5px;
+  border: none;
+  margin: 1%;
+  background-color: rgb(4, 217, 255);
+  font-size: 16px;
+}
+.tags:hover {
+  cursor: pointer;
+  opacity: 0.4;
+  transition: 0.2s;
 }
