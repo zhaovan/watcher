@@ -1,5 +1,7 @@
 # Watcher: My best friend for finding local information
 
+![](/public/display.png)
+
 This is a project for CLPS1220B: Collective Cognition. I was curious about the ways that we could use the internet as a transactive memory system, specifically in relation to Vannevar Bush's [Memex](theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881) of having a read version where we could look through databases of information that applies to us instantly. Specifically, this piece from the [Scientific American](https://www.scientificamerican.com/article/the-internet-has-become-the-external-hard-drive-for-our-memories/) is what peaked this curiosity during the class.
 
 ## Applications to Collective Cognition
