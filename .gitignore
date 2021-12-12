@@ -23,4 +23,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-**/credentials.py
+# api keys
+lib/twitter/credentials.py
