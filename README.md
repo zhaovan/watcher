@@ -8,6 +8,6 @@ There's two main applications. The first is the fact that one of the views is th
 
 ## Details and Implementation
 
-[](/public/diagram.png)
+![](/public/diagram.png)
 
 This is a static web app built with create-react-app and hosts a python library for creating an index of notes.
