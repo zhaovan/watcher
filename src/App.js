@@ -22,31 +22,6 @@ function flatten(arr) {
   }, []);
 }
 
-// Modal Themes
-// const styles = (theme) => ({
-//   modalStyle1: {
-//     position: "absolute",
-//     top: "10%",
-//     left: "10%",
-//     overflow: "scroll",
-//     height: "100%",
-//     display: "block",
-//   },
-// });
-
-// const style = {
-//   position: "absolute",
-//   top: "50%",
-//   left: "50%",
-//   transform: "translate(-50%, -50%)",
-//   width: 800,
-//   bgcolor: "background.paper",
-//   border: "2px solid #000",
-//   boxShadow: 24,
-//   p: 4,
-//   overflow: "scroll",
-// };
-
 function App() {
   const [searchInput, setSearchInput] = useState("");
   const [returnedDocs, setReturnedDocs] = useState([]);
